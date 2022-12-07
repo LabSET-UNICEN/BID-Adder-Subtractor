@@ -1,1 +1,1 @@
-# VHDL implementation of BID encoded adder/subtracto
+# VHDL implementation of BID encoded adder/subtractor
